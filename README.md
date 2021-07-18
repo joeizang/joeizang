@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey y'all 👋
 - 👋 I’m @joeizang
 - 👀 I’m interested in C#-dotnet/Typescript/Blazor/React/Kotlin/C++/Coding/Open Source/Web Tech/Solidity-Ethereum/Cloud
 - 🌱 I’m currently learning Solidity/React/Blazor
