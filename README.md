@@ -1,7 +1,7 @@
 ### Hey y'all 👋
 - 👋 I’m @joeizang
-- 👀 I’m interested in C#-dotnet/Typescript/Blazor/React/Kotlin/C++/Coding/Open Source/Web Tech/Solidity-Ethereum/Cloud
-- 🌱 I’m currently learning Solidity/React/Blazor
+- 👀 I’m interested in C#-dotnet/Typescript/Blazor/React/Kotlin/C++/golang/Coding/Open Source/Web Tech/Solidity-Ethereum/Cloud
+- 🌱 I’m currently learning Solidity/React/Kubernetes
 - 💞️ I’m looking to collaborate on any open source project that uses these technologies
 - 📫 How to reach me twitter(@joseph_izang1) email: josephizang@gmail.com
 <!--
