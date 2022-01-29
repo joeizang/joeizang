@@ -3,7 +3,7 @@
 - 👀 I’m interested in C#-dotnet/Typescript/Blazor/React/Kotlin/C++/golang/Open Source/Web Tech/Solidity-Ethereum/Cloud
 - 🌱 I’m currently learning Solidity/React/Kubernetes
 - 💞️ Collaboration on any open source project that uses these technologies a given
-- 📫 How to reach me twitter(@joseph_izang1) email: josephizang@gmail.com
+- 📫 How to reach me twitter: @joseph_izang1 email: josephizang@gmail.com
 <!--
 **joeizang/joeizang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
