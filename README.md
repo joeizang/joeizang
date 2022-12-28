@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer, Nerd & Tech Junkie
 -------------------------------------------------
 
-I am a Bible believing Christian, Fullstack Software Developer, Nerd, Husband and Father. I love .Net/C#, React.js, Typescript/Javascript, Art and Music.
+I am a Bible believing Christian, Fullstack Software Developer, Nerd, Husband and Father. I love .Net/C#, React.js, Typescript/Javascript, Ethereum/solidity/web3, Art and Music.
 
 * 🌍  I'm based in Jos, Plateau, Nigeria.
 * 🚀  I'm currently working on [Ethereum Remix IDE](http://remix.ethereum.org)
