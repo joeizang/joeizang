@@ -9,11 +9,11 @@ I am a Bible believing Christian, Fullstack Software Developer, Nerd, Husband an
 
 * 🌍  I'm based in Jos, Plateau, Nigeria.
 * 🚀  I'm currently working on [Ethereum Remix IDE](http://remix.ethereum.org)
-* 🧠  I'm learning Solidity, Web3, Typescript, Javascript, Golang & C#.
+* 🧠  I'm learning Solidity, Web3, Typescript, Javascript, Swiftlang & C#.
 * ⚡  I really enjoy Football (soccer) and I support Manchester United FC.
 * 😄 Pronouns: He/Him
-* 👀 I’m interested in C#-dotnet/Typescript/Javascript/React/Blazor/Solidity-Ethereum/Cloud
-* 🌱 I’m always learning. There is a lot of head room to grow into so why not! 😁😉
+* 👀 I’m interested in C#-dotnet/Swiftlang-Vapor-Swift-Adwaita/Typescript/Javascript/React/Blazor/Solidity-Ethereum/Cloud
+* 🌱 I’m always learning and trying to improve. There is a lot of head room to grow into so why not! 😁😉
 
 ### Skills
 
