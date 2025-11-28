@@ -7,10 +7,10 @@ Fullstack & Software Developer
 I love creating things, especially with code. I am a Bible believing Christian, a Father of 4, husband to the best wife there.will ever be. I love computer technology, especially web technologies. I love C# and Swift-lang. Typescript (or..javascript...its the same difference) rocks and I believe web3 is genius and should not be dismissed. I think Macbook Pros are the best laptops for work and Linux is the best way to deploy servers. There is so much head room to grow so why not learn and stretch all the time?! Reading from a device doesn't cut it for me...
 
 * 🌍  I'm based in Jos, Nigeria
-* 🚀  I'm currently working on [Ethereum Remix](http://github.com/ethereum/remix-project)
-* 🧠  I'm learning C#, Swift-lang, Javascript, Vyper, Web3, Vapor
+* 🚀  I'm currently working on [Remix Project](http://github.com/remix-project-org/remix-project)
+* 🧠  I'm learning C#, Swift-lang, Javascript, Web3, Vapor
 * 🤝  I'm open to collaborating on anything that utilizes my favored tech stack
-* ⚡  Jesus makes it worthwhile. Teach anyone willing to learn from you.
+* ⚡  Jesus makes it worthwhile. Teach anyone willing to learn from me.
 
 ### Skills
 
